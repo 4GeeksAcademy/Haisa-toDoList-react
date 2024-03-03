@@ -22,3 +22,11 @@ input{
     border: none;
     width: 100%;
 }
+
+.papelera{
+    opacity: 0;
+}
+
+.papelera:hover{
+    opacity: 1;
+}
